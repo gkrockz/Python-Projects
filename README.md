@@ -1,7 +1,7 @@
 ## Python-Projects 
 
-<p>
-<img src="Img/Logo.jpg">
+<p align="center">
+<img src="Img/Logo.png">
 </p>
 
 ### The Most Fruitful Projects That Saves Your Time :
