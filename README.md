@@ -1,4 +1,4 @@
-## Python-Projects 
+<h1 align="center">Python Mini-Projects</h1> 
 
 <p align="center">
 <img src="Img/Logo.png">
