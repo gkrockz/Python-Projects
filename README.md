@@ -1,7 +1,7 @@
 <h1 align="center">Python Mini-Projects</h1> 
 
 <p align="center">
-<img src="Img/Logo.png">
+<img src="Img/Logo.png" width="100px" height="100px">
 </p>
 
 ### The Most Fruitful Projects That Saves Your Time :
